@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="2959" started-at="2019-06-10T17:15:40Z" finished-at="2019-06-10T17:15:43Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="2959" started-at="2019-06-10T17:15:40Z" finished-at="2019-06-10T17:15:43Z">
+      <class name="com.trusthub.cobranca.CobrancaRelatoriosApplicationTest">
+        <test-method status="PASS" signature="contextLoads()[pri:0, instance:contextLoads(com.trusthub.cobranca.CobrancaRelatoriosApplicationTest)]" name="contextLoads" duration-ms="74" started-at="2019-06-10T14:15:43Z" finished-at="2019-06-10T14:15:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contextLoads -->
+      </class> <!-- com.trusthub.cobranca.CobrancaRelatoriosApplicationTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
